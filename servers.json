@@ -1,7 +1,16 @@
-{
-  "Inwi *6": "vless://a3f14948-0f0f-5611-aefb-0512bb238bf4@nl1.xvless.site:443?encryption=none&security=tls&sni=v.whatsapp.net&type=ws&host=v.whatsapp.net&path=%2Fvless#Cousta_Inwi",
-  "Orange *6": "vless://a3f14948-0f0f-5611-aefb-0512bb238bf4@nl1.xvless.site:443?encryption=none&security=tls&sni=m.facebook.com&type=ws&host=m.facebook.com&path=%2Fvless#Cousta_Orange",
-  "Maroc Telecom *6": "vless://a3f14948-0f0f-5611-aefb-0512bb238bf4@nl1.xvless.site:443?encryption=none&security=tls&sni=www.iam.ma&type=ws&host=www.iam.ma&path=%2Fvless#Cousta_IAM",
-  "IAM (0dh)": "vless://a3f14948-0f0f-5611-aefb-0512bb238bf4@nl1.xvless.site:443?encryption=none&security=tls&sni=www.iam.ma&type=ws&host=www.iam.ma&path=%2Fvless#Cousta_IAM_0",
-  "Inwi (0dh)": "vless://a3f14948-0f0f-5611-aefb-0512bb238bf4@nl1.xvless.site:443?encryption=none&security=tls&sni=v.whatsapp.net&type=ws&host=v.whatsapp.net&path=%2Fvless#Cousta_Inwi_0"
-} 
+[
+  {
+    "name": "Casablanca Fast 01",
+    "country": "Morocco",
+    "protocol": "VLESS",
+    "host": "ma1.example.com",
+    "port": 443
+  },
+  {
+    "name": "Cairo Node 01",
+    "country": "Egypt",
+    "protocol": "VLESS",
+    "host": "eg1.example.com",
+    "port": 443
+  }
+]
