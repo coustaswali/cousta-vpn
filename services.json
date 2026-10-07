@@ -1,0 +1,5 @@
+{
+  "ma_orange_star6": "vless://00000000-0000-0000-0000-000000000000@123.45.67.89:443?type=ws&security=tls&sni=v.whatsapp.net#Orange_WhatsApp",
+  "ma_inwi_star6": "vless://00000000-0000-0000-0000-000000000000@123.45.67.89:443?type=ws&security=tls&sni=m.facebook.com#Inwi_Facebook",
+  "ma_iam_star6": "vless://00000000-0000-0000-0000-000000000000@123.45.67.89:443?type=ws&security=tls&sni=v.whatsapp.net#IAM_WhatsApp"
+}
