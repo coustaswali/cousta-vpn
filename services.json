@@ -1,7 +1,6 @@
 {
-  "servers": [
-    "vless://رابط_أورنج_هنا",
-    "vless://رابط_إنوي_هنا",
-    "vless://رابط_اتصالات_المغرب_هنا"
-  ]
+  "version": "1.0.0",
+  "url": "https://t.me/Botlab_tech",
+  "notes": "الإصدار الأول من COUSTA VPN"
 }
+
